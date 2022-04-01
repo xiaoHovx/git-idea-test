@@ -6,7 +6,6 @@ public class TestController {
         System.out.println("hello git! dev 分支");
         System.out.println("hello2 git!");
         System.out.println("这是github第一次提交");
-        System.out.println("这是github第一次提交");
-        System.out.println("线上更改")
+        System.out.println("线上更改");
     }
 }
